@@ -39,3 +39,4 @@ skijiji.scrape(10, function(err, data) {
 
 ### To-do
 - Abandon the URL usage to move to a more dynamic way of querying the ads
+- Retrieve top ads and ads, just top ads, just ads
