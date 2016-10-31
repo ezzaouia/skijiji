@@ -1,5 +1,5 @@
 # skijiji
-A minimal Node.js module built on Request & Cheerio for scraping Kijiji ads.
+A minimal Node.js module built on [Request](https://github.com/request/request) & [Cheerio](https://github.com/cheeriojs/cheerio) for scraping [Kijiji](http://www.kijiji.ca/) ads.
 
 ### Features
 - Retrieve JSON objects of ads
