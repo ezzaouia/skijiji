@@ -15,7 +15,7 @@ npm install skijiji --save
 The main Skijiji object.
 
 ##### Arguments
-- ```base_url``` is the URL to be scraped. This URL must look identical to "http://www.kijiji.ca/b-house-rental/ontario/c43l9004" where the only parameters that change are the category, location, and ID's.
+- ```base_url``` is the URL to be scraped. This URL must follow the format of "http://www.kijiji.ca/b-house-rental/ontario/c43l9004" where the only parameters that change are the category, location, and ID's.
 
 #### Skijiji.scrape(pages, callback)
 
