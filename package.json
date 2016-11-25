@@ -4,6 +4,7 @@
   "description": "A Node.js module made to scrape Kijiji.",
   "main": "app.js",
   "scripts": {
+    "init": "npm install",
     "test": "node app.js"
   },
   "repository": {
